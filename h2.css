@@ -1,0 +1,148 @@
+.a{
+    
+    margin-left: 550px;
+    margin-right: 630px;
+    background-color: aqua;
+    border: 2px solid blue;
+    
+}
+.b{
+    
+    font-size: large;
+    font-weight: bold;
+    font-style: italic;
+    margin-left: 550px;
+    margin-right: 600px;
+    padding: 10px; 
+    background-color: aliceblue;
+    border: 2px solid antiquewhite;
+ 
+}
+.c{
+  margin-left: 600px;
+  margin-right: 600px;
+  padding: 10px;
+  background-color: antiquewhite;
+  font-size: large;
+  font-weight: bold;
+  font-style: italic;
+  border: solid black 3px;
+  
+}
+.d{
+    
+  background-color: lightgoldenrodyellow;
+  text-align: center;    
+  margin-left: 600px;
+  margin-right: 600px;
+  padding: 10px;    
+  font-size: large;
+  font-weight: bold;
+  font-style: italic;
+  border: solid black 3px;
+}
+.ab{
+    margin-left: 600px;
+    margin-right: 700px;
+    border-radius: 2px solid black;
+    margin-bottom: 5px;
+    margin-top: 5px;
+    
+}
+.navbar{
+  height: 85px;
+  background-color:antiquewhite;
+  display: flex;
+  
+}
+.nav_logo{
+  height: 70px;
+  width: 65px;
+  background-image: url("https://png.pngtree.com/png-clipart/20231019/original/pngtree-user-profile-avatar-png-image_13369988.png");
+  background-size: cover;
+  background-color: #003261;
+  border-radius: 35px;
+  margin-left: 7px;
+  justify-content: center;
+  align-items: center;
+}
+.icon{
+  margin-left: 1150px;
+  font-size: 2rem;
+}
+h1{
+  text-align: center;
+  margin-left: 20px;
+}
+
+.nav-box{
+  height: 50px;
+  background-color: lavenderblush;
+  display: flex;
+  color: white;
+  text-align: left;
+  
+  padding: 10px;
+
+}
+.nav-items{
+  display: flex;
+  
+   }
+   .nav-items1{
+    margin-left: 10px;}
+    .nav-items2{
+        margin-left: 10px;}
+a{
+  text-decoration: none;
+  color:blue;
+}        
+.add{
+  background-color: lightcoral;
+  text-align: center;
+     
+     margin-left: 600px;
+     margin-right: 600px;
+     padding: 10px;
+     
+   font-size: large;
+   font-weight: bold;
+   font-style: italic;
+   border: solid black 3px;
+   margin-top: 10px;
+}
+.web{
+  background-color: lightcyan;
+  text-align: center;
+     
+     margin-left: 600px;
+     margin-right: 600px;
+     padding: 10px;
+     
+   font-size: large;
+   font-weight: bold;
+   font-style: italic;
+   border: solid black 3px;
+   
+}
+.home{
+  background-color: antiquewhite;
+  text-align: center;
+     
+     margin-left: 600px;
+     margin-right: 600px;
+     padding: 5px;
+     
+   font-size: large;
+   font-weight: bold;
+   font-style: italic;
+   border: solid black 3px;
+  margin-top: 10px;
+  
+  
+}
+body{
+  background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPrsdVgZ64g2d3fOOOp9bbuDhVLa52-ZHibw&s);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
